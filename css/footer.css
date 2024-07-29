@@ -1,0 +1,37 @@
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  margin-top: 10px;
+}
+
+.keypad-board {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  margin-top: 5px;
+}
+
+.pad-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(211, 214, 218);
+  width: 53px;
+  height: 75px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+#block {
+  width: 80px;
+  font-size: 17px;
+}
+
+#block img {
+  width: 30px;
+}
