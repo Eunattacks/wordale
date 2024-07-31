@@ -7,7 +7,7 @@ footer {
   margin-top: 10px;
 }
 
-.keypad-board {
+.keyboard-row {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -15,7 +15,7 @@ footer {
   margin-top: 5px;
 }
 
-.pad-block {
+.keyboard-column {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -27,11 +27,11 @@ footer {
   font-size: 25px;
 }
 
-#block {
+#pic {
   width: 80px;
   font-size: 17px;
 }
 
-#block img {
+#pic img {
   width: 30px;
 }
